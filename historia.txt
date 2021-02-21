@@ -1,4 +1,10 @@
 
+---------------------------------------
+CABECERA DEL ARCHIVO
+Se coloca la información de cabecera
+---------------------------------------
+
+
 Esta es la historia de Joel Flores
 
 Joel Flores tiene 31 años, tiene 1 hijo
