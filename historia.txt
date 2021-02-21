@@ -1,7 +1,7 @@
 
 ---------------------------------------
 CABECERA DEL ARCHIVO
-Se coloca la información de cabecera
+Se coloca la información de header
 ---------------------------------------
 
 
