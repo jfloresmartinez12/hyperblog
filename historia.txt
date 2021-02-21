@@ -1,7 +1,9 @@
 
 ---------------------------------------
 CABECERA DEL ARCHIVO
-Se coloca la información de zapahuma
+
+Se coloca la información de header
+
 ---------------------------------------
 
 
